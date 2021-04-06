@@ -1,0 +1,58 @@
+(base) clarizza@MacBook-Pro Module 8 % ./a.out 
+Please enter how many elements you want to sort: 
+4
+
+Please, enter array elements to sort:
+
+Enter element 1 :
+
+2
+
+Enter element 2 :
+7
+
+Enter element 3 :
+3
+
+Enter element 4 :
+9
+
+Sorted Array:
+2	3	7	9
+
+
+(base) clarizza@MacBook-Pro Module 8 % ./a.out                           
+Please enter how many elements you want to sort: 
+3
+
+Please, enter array elements to sort:
+
+Enter array element # 1 :
+1
+
+Enter array element # 2 :
+7
+
+Enter array element # 3 :
+4
+
+Final Sorted Array:
+1	4	7	
+
+%(base) clarizza@MacBook-Pro Module 8 % ./a.out
+Please enter how many elements you want to sort: 
+3
+
+Please, enter array elements to sort:
+
+Enter array element # 1 :
+1.5
+
+Enter array element # 2 :
+7.4
+
+Enter array element # 3 :
+0.6
+
+Final Sorted Array:
+0.6	1.5	7.4
