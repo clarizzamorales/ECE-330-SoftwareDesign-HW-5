@@ -32,10 +32,10 @@ void selectionSort(X array[], int array_length)
 
 int main()
 {
-    int int_array[100]; //int array 
+    int int_array[20]; //int array 
     int i;  //iteration variable i
     int userIn; //user input to get the # of elements or length of array
-    float float_array[100]; // float array
+    float float_array[20]; // float array
 
 
     std::cout<< "Please enter how many elements you want to sort: \n";
