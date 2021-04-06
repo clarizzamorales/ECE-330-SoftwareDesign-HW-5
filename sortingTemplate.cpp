@@ -56,7 +56,7 @@ int main()
     std::cout << "Final Sorted Array:\n";
 
     for(i=0; i<userIn; i++){ // print the sorted array
-       std::cout << float_array[i] << "\t";
+       std::cout << float_array[i] << "\n";
     }
 
     return 0;
